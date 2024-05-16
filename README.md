@@ -1,4 +1,3 @@
-# cosmos-snapshots  
 List of snapshots:   
 https://snapshots.c29r3.xyz:
 - [Akash mainnet](https://github.com/c29r3/cosmos-snapshots/blob/main/instructions/Akash.md) | [MIRRORS](https://gist.githubusercontent.com/c29r3/1a8a951008b19aaa424d63d15cf528d8/raw/910b3ab34bcceb2b3e9bca0765a92461bafc53f8/akash-snapshot-mirrors)

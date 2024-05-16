@@ -7,7 +7,6 @@ https://snapshots.c29r3.xyz:
 - [Agoric mainnet](https://github.com/c29r3/cosmos-snapshots/blob/main/instructions/Agoric.md)
 
 
-## MIRRORS  
 http://162.255.116.68/snapshots/ - privded by Min (Min#6706)  
 https://snapshots.stakecraft.com/    - provided by Alex Novy  
 
